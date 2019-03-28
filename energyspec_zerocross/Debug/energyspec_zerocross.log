@@ -1,0 +1,29 @@
+﻿  energyspec_zerocross.cpp
+e:\users\li\documents\visual studio 2015\projects\energyspec_zerocross\energyspec_zerocross\energyspec_zerocross.cpp(236): warning C4244: “参数”: 从“Type”转换到“int”，可能丢失数据
+e:\users\li\documents\visual studio 2015\projects\energyspec_zerocross\energyspec_zerocross\energyspec_zerocross.cpp(405): warning C4244: “参数”: 从“Type”转换到“int”，可能丢失数据
+e:\users\li\documents\visual studio 2015\projects\energyspec_zerocross\energyspec_zerocross\energyspec_zerocross.cpp(412): warning C4244: “参数”: 从“Type”转换到“int”，可能丢失数据
+e:\users\li\documents\visual studio 2015\projects\energyspec_zerocross\energyspec_zerocross\energyspec_zerocross.cpp(471): warning C4244: “参数”: 从“Type”转换到“int”，可能丢失数据
+e:\users\li\documents\visual studio 2015\projects\energyspec_zerocross\energyspec_zerocross\energyspec_zerocross.cpp(472): warning C4244: “参数”: 从“Type”转换到“int”，可能丢失数据
+e:\users\li\documents\visual studio 2015\projects\energyspec_zerocross\energyspec_zerocross\energyspec_zerocross.cpp(473): warning C4244: “参数”: 从“Type”转换到“int”，可能丢失数据
+e:\users\li\documents\visual studio 2015\projects\energyspec_zerocross\energyspec_zerocross\energyspec_zerocross.cpp(480): warning C4244: “初始化”: 从“Type”转换到“int”，可能丢失数据
+e:\users\li\documents\visual studio 2015\projects\energyspec_zerocross\energyspec_zerocross\energyspec_zerocross.cpp(482): warning C4244: “参数”: 从“Type”转换到“int”，可能丢失数据
+e:\users\li\documents\visual studio 2015\projects\energyspec_zerocross\energyspec_zerocross\energyspec_zerocross.cpp(484): warning C4244: “参数”: 从“Type”转换到“int”，可能丢失数据
+e:\users\li\documents\visual studio 2015\projects\energyspec_zerocross\energyspec_zerocross\energyspec_zerocross.cpp(524): warning C4244: “参数”: 从“Type”转换到“int”，可能丢失数据
+e:\users\li\documents\visual studio 2015\projects\energyspec_zerocross\energyspec_zerocross\energyspec_zerocross.cpp(527): warning C4244: “参数”: 从“Type”转换到“int”，可能丢失数据
+e:\users\li\documents\visual studio 2015\projects\energyspec_zerocross\energyspec_zerocross\energyspec_zerocross.cpp(575): warning C4244: “参数”: 从“Type”转换到“int”，可能丢失数据
+e:\users\li\documents\visual studio 2015\projects\energyspec_zerocross\energyspec_zerocross\energyspec_zerocross.cpp(667): warning C4101: “j_mean”: 未引用的局部变量
+e:\users\li\documents\visual studio 2015\projects\energyspec_zerocross\energyspec_zerocross\energyspec_zerocross.cpp(667): warning C4101: “i_mean”: 未引用的局部变量
+e:\users\li\documents\visual studio 2015\projects\energyspec_zerocross\energyspec_zerocross\energyspec_zerocross.cpp(737): warning C4244: “参数”: 从“Type”转换到“int”，可能丢失数据
+e:\users\li\documents\visual studio 2015\projects\energyspec_zerocross\energyspec_zerocross\energyspec_zerocross.cpp(767): warning C4244: “参数”: 从“Type”转换到“int”，可能丢失数据
+e:\users\li\documents\visual studio 2015\projects\energyspec_zerocross\energyspec_zerocross\energyspec_zerocross.cpp(811): warning C4018: “<”: 有符号/无符号不匹配
+e:\users\li\documents\visual studio 2015\projects\energyspec_zerocross\energyspec_zerocross\energyspec_zerocross.cpp(813): warning C4018: “<”: 有符号/无符号不匹配
+e:\users\li\documents\visual studio 2015\projects\energyspec_zerocross\energyspec_zerocross\energyspec_zerocross.cpp(851): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\users\li\documents\visual studio 2015\projects\energyspec_zerocross\energyspec_zerocross\energyspec_zerocross.cpp(878): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\users\li\documents\visual studio 2015\projects\energyspec_zerocross\energyspec_zerocross\energyspec_zerocross.cpp(1552): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\users\li\documents\visual studio 2015\projects\energyspec_zerocross\energyspec_zerocross\energyspec_zerocross.cpp(1596): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\users\li\documents\visual studio 2015\projects\energyspec_zerocross\energyspec_zerocross\energyspec_zerocross.cpp(1612): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\users\li\documents\visual studio 2015\projects\energyspec_zerocross\energyspec_zerocross\energyspec_zerocross.cpp(1639): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\users\li\documents\visual studio 2015\projects\energyspec_zerocross\energyspec_zerocross\energyspec_zerocross.cpp(1669): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\users\li\documents\visual studio 2015\projects\energyspec_zerocross\energyspec_zerocross\energyspec_zerocross.cpp(1687): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  energyspec_zerocross.vcxproj -> E:\Users\li\Documents\Visual Studio 2015\Projects\energyspec_zerocross\Debug\energyspec_zerocross.exe
+  energyspec_zerocross.vcxproj -> E:\Users\li\Documents\Visual Studio 2015\Projects\energyspec_zerocross\Debug\energyspec_zerocross.pdb (Full PDB)
